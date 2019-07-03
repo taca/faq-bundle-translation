@@ -99,10 +99,11 @@
       </trans-unit>
       <trans-unit id="tl_faq.new.0">
         <source>New</source>
+        <target>新規作成</target>
       </trans-unit>
       <trans-unit id="tl_faq.new.1">
         <source>Create a new question</source>
-        <target>新しく質問を作成</target>
+        <target>新しい質問を作成</target>
       </trans-unit>
       <trans-unit id="tl_faq.show">
         <source>Show the details of question ID %s</source>
@@ -138,9 +139,11 @@
       </trans-unit>
       <trans-unit id="tl_faq.pastenew.0">
         <source>Create a new question at the top</source>
+        <target>先頭に新しい質問を作成</target>
       </trans-unit>
       <trans-unit id="tl_faq.pastenew.1">
         <source>Create a new question after question ID %s</source>
+        <target>ID %sの質問の後に新しい質問を作成</target>
       </trans-unit>
     </body>
   </file>
