@@ -1,108 +1,108 @@
 [main]
 host = https://www.transifex.com
 
-[contao-faq-bundle.v4_4-default]
-file_filter = translations/contao-faq-bundle.v4_4-default/<lang>.xlf
+[faq-bundle.v4_4-default]
+file_filter = translations/faq-bundle.v4_4-default/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_4-modules]
-file_filter = translations/contao-faq-bundle.v4_4-modules/<lang>.xlf
+[faq-bundle.v4_4-modules]
+file_filter = translations/faq-bundle.v4_4-modules/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_4-tl_faq]
-file_filter = translations/contao-faq-bundle.v4_4-tl_faq/<lang>.xlf
+[faq-bundle.v4_4-tl_faq]
+file_filter = translations/faq-bundle.v4_4-tl_faq/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_4-tl_faq_category]
-file_filter = translations/contao-faq-bundle.v4_4-tl_faq_category/<lang>.xlf
+[faq-bundle.v4_4-tl_faq_category]
+file_filter = translations/faq-bundle.v4_4-tl_faq_category/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_4-tl_module]
-file_filter = translations/contao-faq-bundle.v4_4-tl_module/<lang>.xlf
+[faq-bundle.v4_4-tl_module]
+file_filter = translations/faq-bundle.v4_4-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_4-tl_user]
-file_filter = translations/contao-faq-bundle.v4_4-tl_user/<lang>.xlf
+[faq-bundle.v4_4-tl_user]
+file_filter = translations/faq-bundle.v4_4-tl_user/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_4-tl_user_group]
-file_filter = translations/contao-faq-bundle.v4_4-tl_user_group/<lang>.xlf
+[faq-bundle.v4_4-tl_user_group]
+file_filter = translations/faq-bundle.v4_4-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_7-default]
-file_filter = translations/contao-faq-bundle.v4_7-default/<lang>.xlf
+[faq-bundle.v4_7-default]
+file_filter = translations/faq-bundle.v4_7-default/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_7-modules]
-file_filter = translations/contao-faq-bundle.v4_7-modules/<lang>.xlf
+[faq-bundle.v4_7-modules]
+file_filter = translations/faq-bundle.v4_7-modules/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_7-tl_faq]
-file_filter = translations/contao-faq-bundle.v4_7-tl_faq/<lang>.xlf
+[faq-bundle.v4_7-tl_faq]
+file_filter = translations/faq-bundle.v4_7-tl_faq/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_7-tl_faq_category]
-file_filter = translations/contao-faq-bundle.v4_7-tl_faq_category/<lang>.xlf
+[faq-bundle.v4_7-tl_faq_category]
+file_filter = translations/faq-bundle.v4_7-tl_faq_category/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_7-tl_module]
-file_filter = translations/contao-faq-bundle.v4_7-tl_module/<lang>.xlf
+[faq-bundle.v4_7-tl_module]
+file_filter = translations/faq-bundle.v4_7-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_7-tl_user]
-file_filter = translations/contao-faq-bundle.v4_7-tl_user/<lang>.xlf
+[faq-bundle.v4_7-tl_user]
+file_filter = translations/faq-bundle.v4_7-tl_user/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_7-tl_user_group]
-file_filter = translations/contao-faq-bundle.v4_7-tl_user_group/<lang>.xlf
+[faq-bundle.v4_7-tl_user_group]
+file_filter = translations/faq-bundle.v4_7-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_8-default]
-file_filter = translations/contao-faq-bundle.v4_8-default/<lang>.xlf
+[faq-bundle.v4_8-default]
+file_filter = translations/faq-bundle.v4_8-default/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_8-modules]
-file_filter = translations/contao-faq-bundle.v4_8-modules/<lang>.xlf
+[faq-bundle.v4_8-modules]
+file_filter = translations/faq-bundle.v4_8-modules/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_8-tl_faq]
-file_filter = translations/contao-faq-bundle.v4_8-tl_faq/<lang>.xlf
+[faq-bundle.v4_8-tl_faq]
+file_filter = translations/faq-bundle.v4_8-tl_faq/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_8-tl_faq_category]
-file_filter = translations/contao-faq-bundle.v4_8-tl_faq_category/<lang>.xlf
+[faq-bundle.v4_8-tl_faq_category]
+file_filter = translations/faq-bundle.v4_8-tl_faq_category/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_8-tl_module]
-file_filter = translations/contao-faq-bundle.v4_8-tl_module/<lang>.xlf
+[faq-bundle.v4_8-tl_module]
+file_filter = translations/faq-bundle.v4_8-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_8-tl_user]
-file_filter = translations/contao-faq-bundle.v4_8-tl_user/<lang>.xlf
+[faq-bundle.v4_8-tl_user]
+file_filter = translations/faq-bundle.v4_8-tl_user/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-faq-bundle.v4_8-tl_user_group]
-file_filter = translations/contao-faq-bundle.v4_8-tl_user_group/<lang>.xlf
+[faq-bundle.v4_8-tl_user_group]
+file_filter = translations/faq-bundle.v4_8-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
 
