@@ -36,41 +36,6 @@ file_filter = translations/faq-bundle.v4_9-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[faq-bundle.v4_11-default]
-file_filter = translations/faq-bundle.v4_11-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[faq-bundle.v4_11-modules]
-file_filter = translations/faq-bundle.v4_11-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[faq-bundle.v4_11-tl_faq]
-file_filter = translations/faq-bundle.v4_11-tl_faq/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[faq-bundle.v4_11-tl_faq_category]
-file_filter = translations/faq-bundle.v4_11-tl_faq_category/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[faq-bundle.v4_11-tl_module]
-file_filter = translations/faq-bundle.v4_11-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[faq-bundle.v4_11-tl_user]
-file_filter = translations/faq-bundle.v4_11-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[faq-bundle.v4_11-tl_user_group]
-file_filter = translations/faq-bundle.v4_11-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [faq-bundle.v4_12-default]
 file_filter = translations/faq-bundle.v4_12-default/<lang>.xlf
 source_lang = en
