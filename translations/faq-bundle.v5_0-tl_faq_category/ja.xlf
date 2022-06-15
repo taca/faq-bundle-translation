@@ -135,6 +135,7 @@
       </trans-unit>
       <trans-unit id="tl_faq_category.children">
         <source>Edit the questions of category ID %s</source>
+        <target>ID %sのカテゴリの質問を編集</target>
       </trans-unit>
       <trans-unit id="tl_faq_category.copy">
         <source>Duplicate category ID %s</source>
